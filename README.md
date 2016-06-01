@@ -1,6 +1,9 @@
 # TrueSearch
 Truecaller UnOfficial API
 
+Now Search Over 2 Billion Phone Numbers 
+WITHOUT Sharing Your Personal Information & Contacts !
+
 Get all Details like Name, Internet Address ( including Email, Facebook & Twitter ), Spam Score, Spammer Type & even Profile Picture.
 
 -----
