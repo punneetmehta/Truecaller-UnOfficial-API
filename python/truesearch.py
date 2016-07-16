@@ -11,9 +11,3 @@ print "Searching for "+no;
 request = urllib2.Request("https://tcapi.phphive.info/search/"+no, headers=request_headers)
 contents = urllib2.urlopen(request).read()
 print contents
-
-# For Searching Profile Picture
-print "Getting Profile Picture...";
-request = urllib2.Request("https://tcapi.phphive.info/pic/"+no, headers=request_headers)
-contents = urllib2.urlopen(request).read()
-print contents;
