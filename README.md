@@ -15,7 +15,7 @@ Ans : Our API just emulates the process one would encounter if using a web-brows
 
 Q : How can i use it?
 Ans : You Just need to Fire a Simple HTTP Get Request on our API Url with Your PHPHive Truecaller API Token.
-API Token can be Obtained from https://tcapi.phphive.info/console/ Fore Free.
+API Token can be Obtained from https://tcapi.phphive.info/console/ For Free.
 
 Q : Is There any Daily Limit for Using this API ?
 
