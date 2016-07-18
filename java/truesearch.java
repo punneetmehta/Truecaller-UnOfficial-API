@@ -37,8 +37,8 @@ public class truesearch {
 	}
 
 	private void search(String no) throws Exception {
-
-		String url = "https://tcapi.phphive.info/search/"+no;
+                String APIToken = ""; // PHPHive Truecaller API Token, Obtain it from https://tcapi.phphive.info/console/
+		String url = "https://tcapi.phphive.info/"+APIToken+"/search/"+no;
 		URL obj = new URL(url);
 		HttpsURLConnection con = (HttpsURLConnection) obj.openConnection();
         // For Handling SSL Handshakes
